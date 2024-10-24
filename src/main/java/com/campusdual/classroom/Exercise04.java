@@ -19,7 +19,7 @@ public class Exercise04 {
         int result = 0;
         for (int i = num; i > 0; i--) {
             result += i;
-        };
+        }
         return result;
     }
 
@@ -27,7 +27,7 @@ public class Exercise04 {
         int result = 0;
         for (int i = num; i > 0; i--) {
             result += (i * 2);
-        };
+        }
         return result;
     }
 
@@ -35,7 +35,7 @@ public class Exercise04 {
         int result = 1;
         for (int i = num; i > 0; i--) {
             result *= i;
-        };
+        }
         return result;
     }
 
